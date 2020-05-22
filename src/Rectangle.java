@@ -5,8 +5,8 @@ class Rectangle {
     // Make Variable
     public static final int WIDTH = 50;
     public static final int HEIGHT = 50;
-    Point upperLeft;
-    Point lowerRight;
+    private Point upperLeft;
+    private Point lowerRight;
 
     // Constructor
     public Rectangle(Point uL) { // Rectangle Constructor가 좀 어려웠다...
@@ -30,7 +30,7 @@ class Rectangle {
         lowerRight.translate(x, y);
     }
 
-    Point getPoint(Point p) {
+    private Point getPoint(Point p) {
         return p;
     }
 
@@ -39,5 +39,4 @@ class Rectangle {
         s = "UL: " + getPoint(upperLeft) + ", LR: " + getPoint(lowerRight); // 이렇게 합치면 알아서 문자열화 되는 건가?
         return s;
     }
-
 }
