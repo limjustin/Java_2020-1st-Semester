@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87bee56-082c-4a6d-8f6c-92851ce30d7b" name="Default Changelist" comment="" />
+    <list default="true" id="a87bee56-082c-4a6d-8f6c-92851ce30d7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment10_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_Practice/StudentDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_Practice/StudentDB.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zf44BhGg41ITg7CTpy5WCsiw0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +34,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Assignment09Main">
+  <component name="RunManager" selected="Application.Assignment10_Main">
     <configuration name="Assignment09Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment09Main" />
       <module name="JAVA_Practice" />
@@ -32,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chap06Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap06Assignment" />
+    <configuration name="Assignment10_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment10_Main" />
       <module name="JAVA_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment10_Main" />
         <item itemvalue="Application.Assignment09Main" />
         <item itemvalue="Application.MidTerm201910831Main" />
         <item itemvalue="Application.Jino" />
         <item itemvalue="Application.Chap07Assignment" />
-        <item itemvalue="Application.Chap06Assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -98,30 +110,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="721" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585217191833" />
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1589567058779">
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1590158878517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589567058779" />
-    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1589567058779">
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590158878517" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1590158878517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589567058779" />
-    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1589567058779">
+    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590158878517" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1590158878516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589567058779" />
-    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1589567058779">
+    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590158878516" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1590158878517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589567058779" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1585216756533">
+    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590158878517" />
+    <state x="555" y="57" key="SettingsEditor" timestamp="1589616702515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585216756533" />
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589603356374">
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589616702515" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590152866686">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589603356374" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590152866686" />
     <state x="141" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589444714292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -134,9 +146,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586961103994" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586445191953">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590156419314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586445191953" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590156419314" />
   </component>
 </project>
