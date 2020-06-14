@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a87bee56-082c-4a6d-8f6c-92851ce30d7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ImageViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageViewerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JPGModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PNGModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestImageViewer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JPGModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPGModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PNGModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PNGModule.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,30 +128,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="798" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590768372774" />
-    <state width="1493" height="404" key="GridCell.Tab.0.bottom" timestamp="1591973396888">
+    <state width="1493" height="404" key="GridCell.Tab.0.bottom" timestamp="1591973490675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="404" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591973396888" />
-    <state width="1493" height="404" key="GridCell.Tab.0.center" timestamp="1591973396887">
+    <state width="1493" height="404" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591973490675" />
+    <state width="1493" height="404" key="GridCell.Tab.0.center" timestamp="1591973490675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="404" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591973396887" />
-    <state width="1493" height="404" key="GridCell.Tab.0.left" timestamp="1591973396887">
+    <state width="1493" height="404" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591973490675" />
+    <state width="1493" height="404" key="GridCell.Tab.0.left" timestamp="1591973490675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="404" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591973396887" />
-    <state width="1493" height="404" key="GridCell.Tab.0.right" timestamp="1591973396887">
+    <state width="1493" height="404" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591973490675" />
+    <state width="1493" height="404" key="GridCell.Tab.0.right" timestamp="1591973490675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="404" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591973396887" />
+    <state width="1493" height="404" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591973490675" />
     <state x="498" y="0" key="SettingsEditor" timestamp="1590768373703">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590768373703" />
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591957486417">
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592133476168">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591957486417" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592133476168" />
     <state x="141" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589444714292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
