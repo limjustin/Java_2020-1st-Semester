@@ -3,11 +3,11 @@ import java.util.Map;
 
 public class CountLetters {
 
-    String letter; // 받을 문자열
-    Map<String, Integer> letterMap; // Map 변수 선언
+    private String letter; // 받을 문자열
+    private Map<String, Integer> letterMap; // Map 변수 선언
 
     // Constructor
-    CountLetters(String s) {
+    public CountLetters(String s) {
         letter = s;
     }
 
