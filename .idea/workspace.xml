@@ -7,6 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a87bee56-082c-4a6d-8f6c-92851ce30d7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FinalTerm201910831Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +38,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.TestCountLetters">
-    <configuration name="Assignment10_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment10_Main" />
+  <component name="RunManager" selected="Application.FinalTerm201910831Main">
+    <configuration name="FinalTerm201910831Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTerm201910831Main" />
       <module name="JAVA_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalTerm201910831Main" />
         <item itemvalue="Application.TestCountLetters" />
         <item itemvalue="Application.TestImageViewer" />
         <item itemvalue="Application.MP11" />
         <item itemvalue="Application.TestHospitalAppointment" />
-        <item itemvalue="Application.Assignment10_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -106,14 +109,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="74" key="#Project_Structure" timestamp="1590766910466">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1593049076342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590766910466" />
-    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585217210143">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585217210143" />
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593049076342" />
     <state x="958" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1591963627725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -126,30 +125,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="798" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590768372774" />
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1592235276620">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1593105786789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592235276620" />
-    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1592235276620">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593105786789" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1593105786789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592235276620" />
-    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1592235276619">
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593105786789" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1593105786788">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592235276619" />
-    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1592235276620">
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593105786788" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1593105786789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592235276620" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593105786789" />
     <state x="498" y="0" key="SettingsEditor" timestamp="1590768373703">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590768373703" />
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592290458601">
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594144533945">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592290458601" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594144533945" />
     <state x="141" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589444714292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -158,13 +157,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="180" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585983435095" />
-    <state x="809" y="190" key="run.anything.popup" timestamp="1586961103994">
+    <state x="809" y="190" key="run.anything.popup" timestamp="1593094502060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586961103994" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590764830060">
+    <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593094502060" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593097087033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590764830060" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593097087033" />
   </component>
 </project>
